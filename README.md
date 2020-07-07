@@ -4,5 +4,7 @@
 <p>Using this backend api user can perform all CRUD operations on student, teacher and subject information</p>
 <h4>Application is developed by following all latest industry standards</h4>
 
+<h3>Technology Used : Java, Spring Boot, Rest API, JPA, SLF4J.</h3>
+
 
 <p>Note: Student Portal Front End development is still in progress</p>
